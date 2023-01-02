@@ -1,16 +1,17 @@
 # grocery_shop_app
 
-A new Flutter project.
+This is a grocery store app in which there is the multiple items which we can purchase from the app just like and online ordering app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Welcome_Page ..
+      👇
+![welcome](https://user-images.githubusercontent.com/105273927/210265099-b8be2805-0051-420b-9238-d865aab7efe4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Home_Page ..
+      👇
+![home](https://user-images.githubusercontent.com/105273927/210265108-28deba32-df7d-459c-874c-84a5dbc50b5f.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cart_Page ..
+      👇
+![cart](https://user-images.githubusercontent.com/105273927/210265112-3d2a2b96-dcd3-43cd-a871-222ca33a63c7.png)
